@@ -1,0 +1,13 @@
+{
+  "name": "flexwasm",
+  "version": "0.1.0",
+  "files": [
+    "flexwasm_bg.wasm",
+    "flexwasm.js",
+    "flexwasm_bg.js",
+    "flexwasm.d.ts"
+  ],
+  "module": "flexwasm.js",
+  "types": "flexwasm.d.ts",
+  "sideEffects": false
+}
